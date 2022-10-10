@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "안나현"
-  avatar           : "https://github.com/Bloodfairy/bloodfairy.github.io/blob/main/_imgs/fox.jpg?raw=true" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "https://github.com/Bloodfairy/bloodfairy.github.io/blob/main/_imgs/nahyon.jpg?raw=true" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "웹소설 작가, 게임 시나리오 기획자"
   location         : "서울"
   email            :
