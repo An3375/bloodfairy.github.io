@@ -1,7 +1,7 @@
 ---
 title: "블로그 MarkDown 작성용 연습 페이지"
-date: 2022-10-10 08:26:28 -0400
-categories: 
+date: 2022-10-10 08:26:28 -0401
+categories: practice
 ---
 
 연습용 페이지입니다.
