@@ -8,13 +8,12 @@ categories: portfolio
   2. 
 
 ### 2. 소설
-  1. 뭐 넣을까...
-  2. 음...
+  1. [너를 위한 세계]
+  2. 존재의 증명
+  3. 제국의 태양
+
+### 3. 캐릭터 설정
 
 
 
-
-
-
-
-
+  [너를 위한 세계]: https://bloodfairy.github.io/novel/novel1/
