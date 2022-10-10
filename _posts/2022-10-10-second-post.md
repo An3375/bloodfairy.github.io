@@ -9,9 +9,9 @@ categories: practice
 
 나현이 블로그는[본인블로그] 입니다.
 
-구글(http://google.com)
+[구글](http://google.com)
 
 구글2 http://google.com
 
-[링크에용]: https://gslazer.github.io "오빠쨩 블로그"
-[본인블로그]: https://bloodfairy.github.io "나현이 블로그"
+[링크에용]: https://gslazer.github.io
+[본인블로그]: https://bloodfairy.github.io
